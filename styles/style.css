@@ -127,7 +127,7 @@ hr{
     color: rebeccapurple;
     display: flex;
     flex-direction: row;
-    margin-left: 1020px;
+    /* margin-left: 1020px; */
 }
 .popular_collection .button a{
     text-decoration: none;
@@ -172,6 +172,7 @@ footer .icon i{
     .popular_collection article{
         grid-template-columns: repeat(1, 1fr);
     }
+    
 }
 
 /*tablet device*/
